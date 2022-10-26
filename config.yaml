@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://kev.bar
 
 languageCode: en-us
-title: "John's Blog"
+title: "Kev Bar personal website"
 theme: "toha"
 
 # Manage languages
@@ -10,9 +10,9 @@ languages:
   en:
     languageName: English
     weight: 1
-  bn:
-    languageName: বাংলা
-    weight: 3
+      # es:
+      # languageName: বাংলা
+    # weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -51,7 +51,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/kbarbora/kev.bar
   # Default branch of your Git repo
   gitBranch: main
 
@@ -127,11 +127,11 @@ params:
     analytics:
       enabled: true
       # Google Analytics
-      google:
-        id: G-H4LBG7NDFZ
-      # # CounterDev
-      # counterDev:
-      #   id: <your counterdev id>
+      # google:
+        # id: G-H4LBG7NDFZ
+      # CounterDev
+      counterDev:
+        id: 548531c5-ae3f-43af-9589-1a759191a19e
       # # GoatCounter
       # goatCounter:
       #   code: <your goat counter code>
@@ -184,7 +184,7 @@ params:
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: true
+      enable: false
       provider: mailchimp
       mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
 
