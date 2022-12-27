@@ -21,7 +21,8 @@ company:
 # a summary about you
 summary: 'I am a passionate cybersecurity researcher. I work closely with IoT devices,
 servers, network protocols, cryptography, docker and more. 
-My tools help cyber security become more resilient to attacks and easier to detect.'
+I follow closely state-of-the-art research.
+My skills help cyber security become more resilient to attacks and easier to detect.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -76,13 +77,13 @@ badges:
   # badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Leadership
+  name: Cybersecurity
   percentage: 85
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
-  percentage: 80
+  name: Machine Learning
+  percentage: 75
   color: yellow
 
 - type: soft-skill-indicator

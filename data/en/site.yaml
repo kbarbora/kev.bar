@@ -7,18 +7,18 @@
 #However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio and personal blog of Kev Bar
+# description: Portfolio and personal site of Kev Bar
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: Docs
-  url: https://toha-guides.netlify.app/posts/
+# - name: Posts
+  # url: https://kev.bar/posts/
   # specify whether to hide the menu item from top navbar or not.
-  hideFromNavbar: false
+  # hideFromNavbar: true
   # specify whether to show the menu item in footer or not.
   # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
-  showOnFooter: false
+  # showOnFooter: false
 
 # Specify OpenGraph Headers
 openGraph:

@@ -3,7 +3,7 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 3
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
@@ -11,54 +11,46 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: IoT Security Lab
+    url: "https://ceid.utsa.edu/iotsecuritylab/"
+    location: UTSA
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Lead Research in the IoT Security Laboratory as part of my doctoral degree. Research in multiple fields including cybersecurity, human-computer interaction, applied machile learning and more.
   positions:
-  - designation: Senior Software Engineer
+  - designation: Assistant Researcher
     start: Nov 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Department of Electrical and Computer Engineering
+    url: "https://ceid.utsa.edu/iotsecuritylab/"
+    end:
+    location: UTSA
+    # company overview
+    overview: Teach the laboratory portion of an 50+ students undergraduate class in Computer Engineering in different semesters.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+  - designation: Teacher Assistant
+    start: Aug 2019
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Cyberforce, US Department of Energy
+    url: "https://cyberforce.energy.gov/conquer-the-hill/"
+    # location: US Department of Energy
+    overview: Top 20 Finalist nationwide competing between different university institutions.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+  - designation: Conquer the hill Competition
+    start:  May 
+    end: June 2021
+    # responsibilities:
+
+- company:
+    name: Cyberforce, US Department of Energy
+    url: "https://cyberforce.energy.gov/cyberforce-competition/"
+    overview: Finalist team. Exercise interactive, scenario-based events, to design a solution engaging in cybersecurity practices.
+  positions:
+  - designation: Blue Team participant
+    start: Nov 5
+    end: 7, 2021
+    # responsibilities:

@@ -1,7 +1,7 @@
 baseURL: https://kev.bar
 
 languageCode: en-us
-title: "Kev Bar website"
+title: "Kev Bar"
 theme: "toha"
 
 # Manage languages
@@ -11,11 +11,11 @@ languages:
     languageName: English
     weight: 1
       # es:
-      # languageName: বাংলা
+      # languageName: Español
     # weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
-# DefaultContentLanguage: bn
+DefaultContentLanguage: en
 
 # Allow raw html in markdown file
 markup:
@@ -47,7 +47,7 @@ params:
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
     main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
+    inverted: /images/site/main-logo.png
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
@@ -57,7 +57,7 @@ params:
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 5
+    maxVisibleSections: 10
 
   # Enable dark theme
   darkMode:
@@ -77,10 +77,10 @@ params:
       shareButtons:
         facebook: true
         twitter: true
-        linkedin: true
+        linkedin: false
         reddit: true
-        whatsapp: true
-        email: true
+        whatsapp: false
+        email: false
         # tumblr: true
         # pocket: true
         # diaspora: true
@@ -134,20 +134,20 @@ params:
         id: 548531c5-ae3f-43af-9589-1a759191a19e
       # # GoatCounter
       # goatCounter:
-      #   code: <your goat counter code>
+      #   code: kevbar
       # # Matomo / Piwik
       # matomo:
       #   instance: matomo.example.com
       #   siteId: 1 # Or any other number
 
-    # # Enable Support
-    # support:
-    #   enabled: true
-    #   kofi:
-    #     user: hossainemruz
-    #     text: Tip Me
-    #     textColor: '#f9fafc'
-    #     backgroundColor: '#248aaa'
+    # Enable Support
+    support:
+      enabled: true
+      kofi:
+        user: kevbar
+        text: Tip Me
+        textColor: '#f9fafc'
+        backgroundColor: '#248aaa'
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true

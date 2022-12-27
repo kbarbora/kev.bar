@@ -11,6 +11,7 @@ menu:
 hero: images/forest.jpg
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
+draft: true
 ---
 
 This sample post tests the followings:
