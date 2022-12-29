@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity on Kev Bar</title>
+    <link>http://localhost:1313/posts/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on Kev Bar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2022 11:11:14 -0600</lastBuildDate><atom:link href="http://localhost:1313/posts/cybersecurity/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Free Cybersecurity Certification by ISC2</title>
+      <link>http://localhost:1313/posts/cybersecurity/free-cybersecurity-certification/</link>
+      <pubDate>Thu, 29 Dec 2022 11:11:14 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/cybersecurity/free-cybersecurity-certification/</guid>
+      <description>Who doesnt like free stuff? specially, when it can increase your chances of increasing your salary and improving your resume. If you see yourself in cybersecurity industry and have the passion and drive to enter a demanding and rewarding field, or even if you are getting started, please take advantage of this opportunity.
+(ISC)2 is the world&amp;rsquo;s largest nonprofit association of certified cybersecurity professionals and has commited to offer FREE certification in Cybersecurity (CC).</description>
+    </item>
+    
+    
+  </channel>
+</rss>

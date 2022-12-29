@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic on Kev Bar</title>
+    <link>http://localhost:1313/categories/basic/</link>
+    <description>Recent content in Basic on Kev Bar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2022 08:06:25 -0600</lastBuildDate><atom:link href="http://localhost:1313/categories/basic/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/posts/introduction/</link>
+      <pubDate>Tue, 27 Dec 2022 08:06:25 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>Greeting y&amp;rsquo;all!
+Im Kevin and this is my personal webpage. I don&amp;rsquo;t need to introduce myself in this post since the homepage should have more than enough info about me. Here, I post about interesting stuff that I find in my daily journey, not only about tech but anything that draws my attention. Here you can find about:
+Tech! Outdoors adventures Finance Machine Learning Cybersecurity Systems Admin DevOps Hacking Cryptocurrency Blockchain If there is something you want me to write about send me an email at hello at [this domain] (yes, this is need to prevent spam, I&amp;rsquo;ll see if it is effective).</description>
+    </item>
+    
+    
+  </channel>
+</rss>

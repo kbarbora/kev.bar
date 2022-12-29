@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-date: 2022-12-27T08:06:25+06:00
+date: 2022-12-27T08:06:25-06
 description: Introduction to Sample Post
 menu:
   sidebar:
