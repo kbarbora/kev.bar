@@ -6,10 +6,30 @@
     <description>Recent content in Posts on Kev Bar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Dec 2022 08:06:25 +0600</lastBuildDate><atom:link href="https://kev.bar/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Wed, 04 Jan 2023 22:36:04 -0600</lastBuildDate><atom:link href="https://kev.bar/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Staggering IPv6 Numbers</title>
+      <link>https://kev.bar/posts/networks/staggering-ipv6/</link>
+      <pubDate>Wed, 04 Jan 2023 22:36:04 -0600</pubDate>
+      
+      <guid>https://kev.bar/posts/networks/staggering-ipv6/</guid>
+      <description>At the moment, the IPv6 protocol is still seen as the eternal substitute for IPv4 to alleviate the problem of increasingly scarce Internet addresses. The true is that only a few people and companies are ready to support IPv6 despite being actively as Internet Standard since July 2017 (ignoring that it was developed in December 1998).
+Yet one wonders how big the IPv6 address space is to guarantee that we won&amp;rsquo;t run out of IPs again in another 40 years.</description>
+    </item>
+    
+    <item>
+      <title>Free Cybersecurity Certification by ISC2</title>
+      <link>https://kev.bar/posts/cybersecurity/free-cybersecurity-certification/</link>
+      <pubDate>Thu, 29 Dec 2022 11:11:14 -0600</pubDate>
+      
+      <guid>https://kev.bar/posts/cybersecurity/free-cybersecurity-certification/</guid>
+      <description>Who doesnt like free stuff? specially, when it can increase your chances of increasing your salary and improving your resume. If you see yourself in cybersecurity industry and have the passion and drive to enter a demanding and rewarding field, or even if you are getting started, please take advantage of this opportunity.
+(ISC)2 is the world&amp;rsquo;s largest nonprofit association of certified cybersecurity professionals and has commited to offer FREE certification in Cybersecurity (CC).</description>
+    </item>
+    
+    <item>
       <title>Introduction</title>
       <link>https://kev.bar/posts/introduction/</link>
-      <pubDate>Tue, 27 Dec 2022 08:06:25 +0600</pubDate>
+      <pubDate>Tue, 27 Dec 2022 08:06:25 -0600</pubDate>
       
       <guid>https://kev.bar/posts/introduction/</guid>
       <description>Greeting y&amp;rsquo;all!

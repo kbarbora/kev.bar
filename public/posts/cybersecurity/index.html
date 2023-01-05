@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Search Results</title>
+    <title>Cybersecurity</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -38,16 +38,10 @@
 
   <link rel="icon" type="image/png" href="/images/site/favicon_hub4f570221fbde4cb11f9521d65637450_9286_42x0_resize_box_3.png" />
 
-<meta property="og:title" content="Search Results" />
-<meta property="og:description" content="This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&ldquo;HTML&rdquo;, &ldquo;JSON&rdquo;] ```" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://kev.bar/search/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2010-06-08T08:06:25+06:00" />
-<meta property="article:modified_time" content="2010-06-08T08:06:25+06:00" />
+<meta property="og:title" content="Cybersecurity" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://kev.bar/posts/cybersecurity/" />
 
 
 
@@ -220,12 +214,15 @@ Initial setup Search depends on additional output content type of JSON in config
   
   
   
+    
+    
+  
   
     
     <li>
-      <i class="fas fa-plus-circle"></i><a class="" href="/posts/cybersecurity/">Cybersecurity</a>
+      <i class="fas fa-minus-circle"></i><a class="active" href="/posts/cybersecurity/">Cybersecurity</a>
       
-      <ul class="">
+      <ul class="active">
         
   
   
@@ -280,29 +277,38 @@ Initial setup Search depends on additional output content type of JSON in config
 <section class="content-section" id="content-section">
   <div class="content container-fluid" id="content">
     <div class="container-fluid post-card-holder" id="post-card-holder">
-      <div id="search-results">
-
-        <script id="search-result-template" type="text/x-js-template">
+      
+      
+      
+        
           <div class="post-card">
-            <a href="${link}" class="post-card-link">
-              <div class="card" style="min-height: 352px;"><a href="${link}" class="post-card-link">
-                <div class="card-head">
-                  <img class="card-img-top" src="${hero}" alt="Card Heading Image">
-                </div>
-                <div class="card-body">
-                  <h5 class="card-title">${title}</h5>
-                  <p class="card-text post-summary">${summary}</p>
-                </div>
-                <div class="card-footer">
-                  <span class="float-left">${date}</span>
-                  <a href="${link}" class="float-right btn btn-outline-info btn-sm">Read</a>
-                </div>
-              </div>
-	          </a>
-          </div>
-        </script>
-
+  <a href="/posts/cybersecurity/free-cybersecurity-certification/" class="post-card-link">
+    <div class="card">
+      <div class="card-head">
+        <img class="card-img-top" src='/posts/cybersecurity/free-cybersecurity-certification/hero.jpg' alt="Hero Image">
       </div>
+      <div class="card-body">
+        <h5 class="card-title">Free Cybersecurity Certification by ISC2</h5>
+        <p class="card-text post-summary">Who doesnt like free stuff? specially, when it can increase your chances of increasing your salary and improving your resume. If you see yourself in cybersecurity industry and have the passion and drive to enter a demanding and rewarding field, or even if you are getting started, please take advantage of this opportunity.
+(ISC)2 is the world&rsquo;s largest nonprofit association of certified cybersecurity professionals and has commited to offer FREE certification in Cybersecurity (CC).</p>
+      </div>
+      <div class="card-footer">
+        <span class="float-left">December 29, 2022</span>
+        <a
+        href="/posts/cybersecurity/free-cybersecurity-certification/"
+        class="float-right btn btn-outline-info btn-sm"
+        >Read</a
+        >
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+      
+    </div>
+    <div class="paginator">
+      
     </div>
   </div>
 </section>
@@ -485,9 +491,7 @@ Initial setup Search depends on additional output content type of JSON in config
 
     
     
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
-<script src="https://kev.bar/js/search.js"></script>
+    <script src="/js/list.js"></script>
 
 
     
